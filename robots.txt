@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://vaogrfp.github.io/sitemap.vaogrfp.gz
+Sitemap: https://vaogrfp.github.io/app/sitemap.vaogrfp.gz
+Sitemap: https://vaogrfp.github.io/assets/sitemap.vaogrfp.gz
+Sitemap: https://vaogrfp.github.io/css/sitemap.vaogrfp.gz
+Sitemap: https://vaogrfp.github.io/data/sitemap.vaogrfp.gz
+Sitemap: https://vaogrfp.github.io/includes/sitemap.vaogrfp.gz
+Sitemap: https://vaogrfp.github.io/item/sitemap.vaogrfp.gz
+Sitemap: https://vaogrfp.github.io/src/sitemap.vaogrfp.gz
